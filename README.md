@@ -1,4 +1,4 @@
-# Course Buddy 📚
+# <img src="public/logo.png" alt="Course Buddy Logo" width="32" height="32" style="vertical-align: middle;"> Course Buddy
 
 A modern, responsive learning management system built with React, TypeScript, and Tailwind CSS. Course Buddy provides an intuitive platform for managing courses, tracking progress, and connecting with an AI learning assistant.
 
